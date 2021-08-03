@@ -5,7 +5,7 @@ This project is a computer vision system that can automatically detect driver dr
 Applications
 
 
-This code can detect your eyes and alert when the user is drowsy with an alarm and screen alert.
+This code can detect your eyes and alert when the user is drowsy with an alarm sound and screen alert.
 
  
 
